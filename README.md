@@ -6,3 +6,5 @@ This is my vim/zsh/tmux config files
 2. tmux config
 
 3. zsh config
+
+4. VIM plugins
